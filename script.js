@@ -1,6 +1,6 @@
 function preload()
 {
-    clown_nose = loadImage('clown.png')
+    clown_nose = loadImage('mustache.png');
 }
 
 noseX=0;
@@ -45,7 +45,7 @@ function gotPoses(results)
     }
 }function preload()
 {
-    clown_nose = loadImage('mustache.png')
+    clown_nose = loadImage('mustache.png');
 }
 
 noseX=0;
